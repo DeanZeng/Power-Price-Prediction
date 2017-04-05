@@ -1,21 +1,21 @@
 # Power-Price-Prediction
 Slovenian electricity spot prices forecasting.  
 
-=People=
+## People
 
 * Student: Ales Omerzel
 * Proposer:  Dejan Velušček
 * Mentor:  Dejan Velušček
 
-=Summary of main goals=
+## Summary of main goals
 
 Forecasting the electricity spot prices is an important tool for price as well as volumetric risk management and for optimal control in electricity production. Therefore, our main goal is to implement the computational intelligence model based on Bayesian statistics and machine learning, analyse results and present the errors. 
 
-=Platforms and background=
+## Platforms and background
 
 * Potential programming languages are Python, R and Julia (new but very optimistic programming language). 
 * Machine learning 
-=Tasks and timetable=
+## Tasks and timetable
 
 A bullet-pointed list of tasks already completed, e.g.:
 * Reading article [https://ideas.repec.org/p/wuu/wpaper/hsc1407.html Electricity price forecasting] (completed 12.03.2017)
