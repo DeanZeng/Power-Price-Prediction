@@ -14,7 +14,8 @@ Forecasting the electricity spot prices is an important tool for price as well a
 ## Platforms and background
 
 * Potential programming languages are Python, R and Julia (new but very optimistic programming language). 
-* Machine learning 
+* Machine learning (Neural-Networks, ARIMA, ...)
+
 ## Tasks and timetable
 
 A bullet-pointed list of tasks already completed, e.g.:
@@ -24,11 +25,8 @@ A bullet-pointed list of tasks already completed, e.g.:
 
 A bullet-pointed list of intermediate and main project goals with time estimates:
 * Parameters selection and data extraction from sources (by 10 April)
-* First prototype predicting model based on temperature data (by 20 April)
+* First prototype predicting model based on simple parameters such as temperature (by 20 April)
 * Extending prototype to other parameters (by end April)
-* Computation of errors (by 10 May)
-* Testing other models (by 20 May)
+* Computation of errors, cross-validation (by 10 May)
+* Testing various models (by 20 May)
 * Experimental evaluation and presentation preparation (by end May)
-
-A bullet-pointed list of possible supplementary goals
-* Undefined for now
